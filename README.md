@@ -1,7 +1,7 @@
 # Psychic-Game
 
 
-
+https://llwashburn.github.io/Psychic-Game-Javascript/
 
 
 Instructions
